@@ -1,0 +1,30 @@
+http://208.8.8.142/otrs/index.pl
+root@localhost
+C1sc0123
+
+
+http://208.8.8.142/otrs/customer.pl
+user1
+C1sc0123
+
+
+http://208.8.8.142:8069
+itil@rivanschool.com
+http://208.8.8.144
+
+5 Types of SOC Tickets
+1 Phishing/SMSing & Malicious Email Tickets
+why common: email/sms is still the top attack vector
+(credential theft, malware delivery).
+
+2. Endpoint Malware/Virus Detection Ticket
+alerts from ENdpoint Detection and response(EDR) tools
+
+3. Unauthorized Access Attempts/Brute force Ticket
+Repeated failed logins, brute-force attacks, or geographic anomalies,
+
+
+TOP 3 SOC Services outsourced
+1. Incident Response and Remediation Support
+2. 24/7 Cyber Security Monitoring and Reporting Service
+3. Security Device Management Service
